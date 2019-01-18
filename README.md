@@ -6,3 +6,6 @@ cleaned up the code to make it readable and added a menuing system to
 make it simpler to use.
 
 http://sine.ni.com/apps/utf8/niid_web_display.model_page?p_model_id=1765
+
+ToDO: Upgrade to use VISA
+
